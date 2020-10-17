@@ -3,3 +3,8 @@ for i in range(1,101):
     print(i+'is an odd number')
   else:
     print(i+'is an even number')
+
+    
+    
+
+end of line
